@@ -1,0 +1,36 @@
+
+html, body {
+    background-color: rgb(44, 44, 44);
+    height: 100%;
+    display: grid;
+}
+
+h1 {
+    font-size: 60x;
+    color: white;
+    text-align: center;
+}
+
+#letter_container {
+    background-color: black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,.5);
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+}
+
+.button.button-outline {
+    color: white;
+    border-color: white;
+}
+
+#start_button {
+    display: block;
+}
+
+#restart_button {
+    display: block;
+}
